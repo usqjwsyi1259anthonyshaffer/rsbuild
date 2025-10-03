@@ -15,3 +15,5 @@ The same as Rspack: [Writing style guide](https://github.com/web-infra-dev/rspac
 For images you use in the document, it's better to upload them to the [rspack-contrib/rstack-design-resources](https://github.com/rspack-contrib/rstack-design-resources) repository, so the size of the current repository doesn't get too big.
 
 After you upload the images there, they will be automatically deployed under the <https://assets.rspack.rs/>.
+
+<!-- Auto-update: 2025-10-03T15:13:43.461735 -->
